@@ -1,5 +1,8 @@
 # leetcode_problems
 
+No 26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/ \
+Runtime : 0ms (100.0% faster), Memory usage : 41 MB
+
 No 33 https://leetcode.com/problems/search-in-rotated-sorted-array/ \
 Runtime : 0ms (100.0% faster), Memory usage : 38.2 MB
 

@@ -1,5 +1,8 @@
 # leetcode_problems
 
+No 7 https://leetcode.com/problems/reverse-integer/ \
+Runtime : 2ms (25.75% faster), Memory usage : 36 MB
+
 No 26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/ \
 Runtime : 0ms (100.0% faster), Memory usage : 41 MB
 

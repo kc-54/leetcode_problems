@@ -3,6 +3,9 @@
 No 7 https://leetcode.com/problems/reverse-integer/ \
 Runtime : 2ms (25.75% faster), Memory usage : 36 MB
 
+No 8 https://leetcode.com/problems/string-to-integer-atoi/ \
+Runtime : 2ms (56.69% faster), Memory usage : 38.4 MB
+
 No 26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/ \
 Runtime : 0ms (100.0% faster), Memory usage : 41 MB
 

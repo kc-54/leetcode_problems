@@ -1,7 +1,7 @@
 package com.leetcode.leetcode_problems;
 
 public class No7 {
-	
+	//https://leetcode.com/problems/reverse-integer/
 	public static void main(String [] arg) {
 		int x = 1534236469;
 		System.out.println(reverse(x));

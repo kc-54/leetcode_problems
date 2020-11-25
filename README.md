@@ -9,6 +9,9 @@ Runtime : 0ms (100.0% faster), Memory usage : 41 MB
 No 33 https://leetcode.com/problems/search-in-rotated-sorted-array/ \
 Runtime : 0ms (100.0% faster), Memory usage : 38.2 MB
 
+No 125 https://leetcode.com/problems/valid-palindrome/ \
+Runtime : 4ms (41.16% faster), Memory usage : 39.2 MB
+
 No 242 https://leetcode.com/problems/valid-anagram/ \
 Runtime : 3ms (70.22% faster), Memory usage : 39 MB
 

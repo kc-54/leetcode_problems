@@ -6,6 +6,9 @@ Runtime : 0ms (100.0% faster), Memory usage : 41 MB
 No 33 https://leetcode.com/problems/search-in-rotated-sorted-array/ \
 Runtime : 0ms (100.0% faster), Memory usage : 38.2 MB
 
+No 344 https://leetcode.com/problems/reverse-string/ \
+Runtime : 1ms (95.16% faster), Memory usage : 46 MB
+
 No 1629 https://leetcode.com/problems/slowest-key/ \
 Runtime : 1ms (82.20% faster), Memory usage : 39.1 MB
 
